@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/nginx-ingress-controller
+FROM registry.cn-hangzhou.aliyuncs.com/google_containers/etcd
