@@ -1,0 +1,1 @@
+FROM gcr.io/google-containers/nginx-ingress-controller@sha256:03fd8fc46018d09b4050d4daaf50bff73c80936994b374319ed33cbb2c1684f4
