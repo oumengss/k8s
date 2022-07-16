@@ -1,0 +1,1 @@
+FROM gcr.io/google-containers/exechealthz-amd64@sha256:503e158c3f65ed7399f54010571c7c977ade7fe59010695f48d9650d83488c0a
